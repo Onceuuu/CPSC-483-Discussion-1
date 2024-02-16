@@ -1,1 +1,1 @@
-# CPSC-483-Discussion-1
+# CPSC 483 Discussion 1
